@@ -1,12 +1,12 @@
 div {
-   border: 15px solid yellow;
-    width: 200px;
-    padding: 20px;
+    border: 17px solid yellow;
+    width: 220px;
+    padding: 21px;
 }
-.div1 {
+.PrimerCubo {
     text-align: center;
     
 }
-.div2 {
+.SegundoCubo {
     margin: auto;
 }
